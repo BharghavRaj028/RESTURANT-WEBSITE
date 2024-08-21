@@ -1,10 +1,8 @@
-
-import Dosa from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\dosa.jpg";
-import Chola from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\chhola.jpg";
-import Idli from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\idli.jpg";
-import Banner from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\banner.jpeg";
-import Paneer from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\paneer.jpg"; 
-import Gujrati from "C:\\Users\\rajbh\\OneDrive\\Desktop\\food resturant\\resturant-website\\src\\images\\gujrati (1).jpeg";
+import Dosa from "../images/dosa.jpg";
+import Chola from "../images/chhola.jpg";
+import Idli from "../images/idli.jpg";
+import Paneer from "../images/paneer.jpg";
+import Gujrati from "../images/gujrati.jpeg";
 
 export const MenuList = [
   {
@@ -42,14 +40,8 @@ export const MenuList = [
       "Gujarati thali prepared in Gujarati households has at least three fresh vegetable dishes, one dry dal or some sprouted pulses dish (ugaadayla mung, for instance), a wet dal, kadhi, kathor (a savoury), mithai, poori, rotis, steamed rice, chaash and papad. Kathiawadi Thali is a variation of Gujarati Thali.",
     image: Gujrati,
     price: 500,
-  },
-  {
-    name: "Banner",
-    description:
-      "Banner Food is known for its South Indian cuisine, which features a variety of traditional and flavorful dishes. South Indian food is renowned for its use of rice, lentils, and a range of spices, making it aromatic and rich in flavor.",
-    image: Banner,
-    price: 500,
-  },
+  }
+  
 
 
  
