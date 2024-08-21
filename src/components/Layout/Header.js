@@ -8,7 +8,7 @@ import {
   Toolbar,
   Typography,
 } from "@mui/material";
-import Logo from "C:/Users/rajbh/OneDrive/Desktop/food resturant/resturant-website/src/images/logo.svg";
+import Logo from "../../images/logo.svg";
 
 import MenuIcon from "@mui/icons-material/Menu";
 import { NavLink } from "react-router-dom";
